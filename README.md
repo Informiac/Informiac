@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @uwes-t
+- 👋 Hi, I’m @Informiac
 - 👀 I’m interested in automation, monitoring, homeautomation...
 - 🌱 I’m currently learning SWIFT, Docker
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 No Wine, No Wife, No Carrier!
